@@ -1,0 +1,500 @@
+   44  vim calculator.c
+   45  vim calculator.c
+   46  cd mastery-version-a-master/
+   47  ls
+   48  vim reader.c
+   49  ls
+   50  cd mas
+   51  cd mastery-version-a-master/
+   52  ls
+   53  make 
+   54  make
+   55  make clean
+   56  make
+   57  make
+   58  make tests
+   59  make check
+   60  make debug
+   61  make clean
+   62  make debug
+   63  gdb ./mini_ci
+   64  clear
+   65  make 
+   66  make tests
+   67  make check
+   68  make
+   69  make clean
+   70  make 
+   71  make check
+   72  make debug
+   73  make clean
+   74  make debug
+   75  gdb ./mini_ci
+   76  make
+   77  make tests
+   78  make clean
+   79  make 
+   80  make check
+   81  make check
+   82  make check
+   83  gdb
+   84  make clean
+   85  make debug
+   86  gdb
+   87  gdb mini_ci
+   88  make tests
+   89  make check
+   90  touch log_file.txt
+   91  ls
+   92  history > log_file.txt 
+   93  cat log_file.txt 
+   94  ls
+   95  vim
+   96  vim log_file.txt 
+   97  show commands >> log_file.txt 
+   98  install-mh
+   99  cd ~/
+  100  install-mh
+  101  ls
+  102  cd mastery-version-a-master/
+  103  ls
+  104  git show commands >> log_file.txt
+  105  show commands >> log_file.txt 
+  106  gdb
+  107  git add .
+  108  git commit -m "Final Push"
+  109  git push
+  110  logout
+  111  clear
+  112  ls
+  113  rm -rf mastery-version-a-master/
+  114  ls -a
+  115  rm .gdbinit 
+  116  ls
+  117  ls -a
+  118  clear
+  119  echo "set history save on" | touch ~/.gdbinit
+  120  ls
+  121  ls -a
+  122  cat ~/.gdbinit 
+  123  rm ~/.gdbinit 
+  124  ls
+  125  ls -a
+  126  echo "set history save on" > touch ~/.gdbinit
+  127  cat ~/.gdbinit
+  128  ls
+  129  ls -a
+  130  ls -a
+  131  clear
+  132  las 0a
+  133  clear
+  134  ls -a
+  135  touch ~/.gdbinit
+  136  ls -a
+  137  echo "set history save on" > ~/.gdbinit
+  138  cat ~/.gdbinit 
+  139  git clone git@github.com:osmincruz/mastery-version-b-master.git
+  140  clear
+  141  make
+  142  ls
+  143  cd mastery-version-b-master/
+  144  ls
+  145  make 
+  146  make check
+  147  make clean
+  148  make debug
+  149  gdb ./mini_ci
+  150  make
+  151  make check
+  152  gdb ./mini_ci
+  153  make clean
+  154  make debug
+  155  gdb ./mini_ci
+  156  logout
+  157  clear
+  158  ls
+  159  rm -rf mastery-version-b-master/
+  160  ls
+  161  clear
+  162  rm -rf Mail
+  163  ls
+  164  clear
+  165  ls
+  166  ls -a
+  167  rm ./.gdbinit 
+  168  ls -a
+  169  clear
+  170  touch ~/.gdbinit
+  171  echo "set history save on" > ~/.gdbinit
+  172  cat ~/.gdbinit
+  173  git clone git@github.com:osmincruz/mastery-version-b-master.git
+  174  make
+  175  ls
+  176  cd mastery-version-b-master/
+  177  ls
+  178  make
+  179  make check
+  180  make clean
+  181  make debug
+  182  gdb ./mini_ci
+  183  clear
+  184  make check
+  185  gdb ./mini_ci
+  186  gdb ./mini_ci
+  187  make clean
+  188  make debug
+  189  gdb ./mini_ci
+  190  make clean
+  191  make debug
+  192  make check
+  193  gdb ./mini_ci
+  194  make
+  195  make check
+  196  make clean
+  197  make check
+  198  make clean
+  199  make debug
+  200  gdb ./mini_ci
+  201  make clen
+  202  make clean
+  203  make debug
+  204  make check
+  205  gdb ./mini_ci
+  206  make clean
+  207  make debug
+  208  make check
+  209  gdb ./mini_ci
+  210  make test
+  211  make
+  212  make check
+  213  gdb
+  214  make clean
+  215  make 
+  216  make clean
+  217  make debug
+  218  make check
+  219  gdb run
+  220  make clean
+  221  make debug
+  222  gdb 
+  223  gdb ./mini_ci
+  224  make clean
+  225  make debug
+  226   make check
+  227  mini_ci_reference testcases/multi_op_err2.s 
+  228  mini_ci testcases/multi_op_err2.s 
+  229  gdb
+  230  gdb ./mini_ci
+  231  make clean
+  232  make debug
+  233  make check
+  234  gdb ./mini_ci
+  235  make clean
+  236  make 
+  237  make check
+  238  make
+  239  make check
+  240  touch shell_logs.txt
+  241  history > shell_logs.txt
+  242  cat shell_logs.txt 
+  243  gdb
+  244  touch gdb_logs.txt
+  245  "  248  p *val_a
+  246    249  p *val_b
+  247    250  cclear
+  248  echo "  248  p *val_a
+  249    249  p *val_b
+  250    250  c
+  251    251  bt
+  252    252  focus cmd
+  253    253  p *op
+  254    254  p *val_a
+  255    255  p *val_b
+  256    256  q
+  257    257  show commands
+  258  ">  gdb_logs.txt 
+  259  cat gdb_logs.txt 
+  260  git add .
+  261  git commit -m "Final commit"
+  262  git ush
+  263  git push
+  264  ls
+  265  cd ~
+  266  ls
+  267  rm -rf mastery-version-b-master/
+  268  rm ~/.gdbinit
+  269  ls -a
+  270  clear
+  271  touch ~/.gdbinit
+  272  echo "set history save on" > ~/.gdbinit
+  273  cat ~/.gdbinit
+  274  git clone git@github.com:osmincruz/mastery-version-c-master.git
+  275  make 
+  276  cd mastery-version-c-master/
+  277  make 
+  278  make check
+  279  make clean 
+  280  make debug
+  281  gdb ./mini_ci
+  282  make check
+  283  history > shell_logs.txt
+  284  ls
+  285  cat shell_logs.txt 
+  286  touch gdb_logs.txt
+  287  ls
+  288  gdb
+  289  echo "    1  r testcases/basic_add.s 
+  290      2  info locals
+  291      3  p *head
+  292      4  p *readr
+  293      5  p *reader
+  294      6  p *reader->token
+  295      7  q
+  296      8  show commands
+  297      9  show commands > gdb_logs.txt
+  298     10  show commands" > gdb_logs.txt 
+  299  cat gdb_logs.txt 
+  300  clear
+  301  git add .
+  302  git status
+  303  git commit -m "Final"
+  304  git push
+  305  make check
+  306  cd ~
+  307  ls
+  308  rm -rf mastery-version-c-master/
+  309  rm ~/.gdbinit
+  310  ls -a
+  311  clear
+  312  logout
+  313  echo "set history save on" > ~/.gdbinit
+  314  cat ~/.gdbinit 
+  315  git clone git@github.com:osmincruz/mastery-version-e-master.git
+  316  clear
+  317  make 
+  318  cd mastery-version-e-master/
+  319  make
+  320  make check
+  321  make clean
+  322  make debug
+  323  gdb ./mini_ci
+  324  make 
+  325  make check
+  326  make clean
+  327  make 
+  328  clear
+  329  history > shell_logs.txt
+  330  cat shell_logs.txt 
+  331  touch gdb_logs.txt
+  332  ls 
+  333  clear
+  334  gdb ./mini_ci
+  335  clear
+  336  echo "   13  info b
+  337     14  delete 1
+  338     15  info b
+  339     16  b 54
+  340     17  r testcases/basic_add.s 
+  341     18  info locals
+  342     19  n
+  343     20  n
+  344     21  q
+  345     22  show commands
+  346  " > gdb_logs.txt 
+  347  cat gdb_logs.txt 
+  348  git add .
+  349  git commit -m "Final"
+  350  ls
+  351  cd ~
+  352  ls
+  353  rm -rf mastery-version-e-master/
+  354  rm ~/.gdbinit 
+  355  clear
+  356  logout
+  357  clear
+  358  echo "set history save on" > ~/.gdbinit
+  359  cat ~/.gdbinit 
+  360  git clone git@github.com:osmincruz/mastery-version-e-master.git
+  361  cd mastery-version-e-master/
+  362  make 
+  363  make chec
+  364  make check
+  365  make clean
+  366  make 
+  367  make check
+  368  history > shell_logs.txt
+  369  touch gdb_logs.txt
+  370  gdb
+  371  echo "    1  show commands
+  372  " > gdb_logs.txt 
+  373  cat gdb_logs.txt 
+  374  cat shell_logs.txt 
+  375  clear
+  376  git add .
+  377  git commit -m "Final"
+  378  git push
+  379  cd ~/
+  380  ls
+  381  rm -rf mastery-version-e-master/
+  382  rm ~/.gdbinit 
+  383  clear 
+  384  ls -a
+  385  logout
+  386  clear
+  387  echo "set history save on" > ~/.gdbinit
+  388  cat ~/.gdbinit
+  389  clear
+  390  git clone git@github.com:osmincruz/mastery-version-a-master.git
+  391  ls
+  392  cd mastery-version-a-master/
+  393  make
+  394  make check
+  395  make clean
+  396  make debug
+  397  gdb ./mini_ci
+  398  clear
+  399  make 
+  400  make
+  401  clear
+  402  make 
+  403  make check
+  404  history > log_file.txt
+  405  cat log_file.txt 
+  406  gdb 
+  407  echo "\n    1  r testcases/err_ops.s 
+  408      2  bt
+  409      3  info locals
+  410      4  p *op 
+  411      5  p *val_a
+  412      6  q
+  413      7  show commands
+  414  " > log_file.txt 
+  415  cat log_file.txt 
+  416  history > log_file.txt 
+  417  cat log_file.txt o
+  418  cat log_file.txt
+  419  clear
+  420  cat log_file.txt 
+  421  clear
+  422  echo "
+  423      1  r testcases/err_ops.s 
+  424      2  bt
+  425      3  info locals
+  426      4  p *op 
+  427      5  p *val_a
+  428      6  q
+  429      7  show commands
+  430  " >> log_file.txt
+  431  cat log_file.txt 
+  432  clear
+  433  git add .
+  434  git commit -m "Final"
+  435  git push
+  436  git log
+  437  cd ~
+  438  ls
+  439  clera
+  440  clear
+  441  ls
+  442  rm -rf mastery-version-a-master/
+  443  rm ~/.gdbinit
+  444  ls -a
+  445  clear
+  446  logout
+  447  clear
+  448  echo "set history save on" > ~/.gdbinit
+  449  ls 
+  450  ls -a
+  451  cat ~/.gd
+  452  cat ~/.gdbinit 
+  453  clear
+  454  git clone git@github.com:osmincruz/mastery-version-f-master.git
+  455  cd mastery-version-f-master/
+  456  ls
+  457  make 
+  458  make check
+  459  make comp
+  460  make clean
+  461  make debug
+  462  gdb ./main.c
+  463  make
+  464  gdb bin/a.out 
+  465  make 
+  466  make
+  467  make clean
+  468  make
+  469  make comp
+  470  clear
+  471  make
+  472  make comp
+  473  make 
+  474  make comp
+  475  gdb bin/a.out
+  476  make clean
+  477  make debug
+  478  clear
+  479  gdb bin/a.out
+  480  gdb ./bin/a.out
+  481  clear
+  482  make clean
+  483  make debug
+  484  make comp
+  485  clear
+  486  make debug
+  487  gdb bin/a.out 
+  488  gdb ./bin/a.out
+  489  ls
+  490  ls -a
+  491  ls bin
+  492  clear
+  493  bin/a.out -t short1.rep
+  494  bin/a.out -t testcases/short1.rep
+  495  gdb
+  496  gdb bin/a.out
+  497  clear
+  498  make debug
+  499  make comp
+  500  gdb bin/a.out 
+  501  clear
+  502  ls
+  503  ls -a
+  504  rm /.gdbinit
+  505  rn ./.gdbinit
+  506  rm ./.gdbinit
+  507  clear
+  508  ls -a
+  509  clear
+  510  echo "set history save on" > ~/.gdbinit
+  511  cat ~/.gdbinit 
+  512  clear
+  513  git clone git@github.com:osmincruz/mastery-version-f-master.git
+  514  rm -rf mastery-version-f-master/
+  515  clear
+  516  git clone git@github.com:osmincruz/mastery-version-f-master.git
+  517  cd mastery-version-f-master/
+  518  make
+  519  make comp
+  520  ckear
+  521  make clean
+  522  clear
+  523  make debug
+  524  gdb bin/a.out 
+  525  ls
+  526  gdb ./bin/a.out
+  527  make debug
+  528  make comp
+  529  gdb ./bin/a.out 
+  530  make debug
+  531  make comp
+  532  bin/a.out -t testcases/short1.rep 
+  533  ref.out -t testcases/short1.rep
+  534  make clean
+  535  make debug
+  536* make com
+  537  valgrind --leach-chek=full bin/a.out -t testcases/short1.rep
+  538  valgrind --leach-check=full bin/a.out -t testcases/short1.rep
+  539  valgrind --leak-check=full bin/a.out -t testcases/short1.rep
+  540  clear
+  541  make
+  542  make comp
+  543  history > shell_logs.txt
